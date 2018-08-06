@@ -1,3 +1,4 @@
 
-#A static portfolio website eas part of a final assignement
-#July, 2017
+A static portfolio website eas part of a final assignement
+
+July, 2017
